@@ -49,7 +49,7 @@ Hi! I'm Shubham Narvekar, an aspiring Business Analyst passionate about solving 
 - SQL & Data Analysis (In progress)
 
 ## Let's Connect
-- **LinkedIn:** [link to your profile]
+- **LinkedIn:** [[link to your profile]](https://www.linkedin.com/in/shubham-narvekar-621969128/)
 - **Email:** [your email]
 - **Open to:** BA roles at startups, fintech, e-commerce, banking
 
