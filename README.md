@@ -31,9 +31,8 @@ Hi! I'm Shubham Narvekar, an aspiring Business Analyst passionate about solving 
 **Problem:** Losing market share to Zerodha/Groww (slow platform, 18% churn, 3.8 rating)
 **Solution:** Phased platform stabilization + feature parity + growth initiatives
 **Result:** 50% MAU increase, ₹145 crores net gain in Year 1 (201% ROI)
-- [User Stories →](./Case-Studies/03-TradeX-Fintech/User-Stories.md)
-- [MoSCoW Prioritization →](./Case-Studies/03-TradeX-Fintech/MoSCoW-Prioritization.md)
-- [12-Month Roadmap →](./Case-Studies/03-TradeX-Fintech/12-Month-Roadmap.md)
+- [User Stories →](./Case-Studies/03-TradeX-Fintech/03-TradeX-User-Stories.md)
+- [12-Month Roadmap & MoSCoW Prioritization →](./Case-Studies/03-TradeX-Fintech/03-TradeX-Roadmap.md)
 
 ## Tools & Skills
 - **Analysis:** Excel (Pivot Tables, VLOOKUP, Data Modeling)
