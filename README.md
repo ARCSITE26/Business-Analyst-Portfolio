@@ -24,8 +24,8 @@ Hi! I'm Shubham Narvekar, an aspiring Business Analyst passionate about solving 
 **Solution:** Parallel processing + automation + compliance-first design
 **Result:** 7-day approval target with 210% ROI
 - [Full BRD →](./Case-Studies/02-FinServe-Bank/BRD.md)
-- [Process Mapping →](./Case-Studies/02-FinServe-Bank/As-Is-To-Be-Process.md)
-- [Implementation Roadmap →](./Case-Studies/02-FinServe-Bank/Implementation-Roadmap.md)
+- [Process Mapping →](./Case-Studies/02-FinServe-Bank/02-FinServe-Process-Mapping.md)
+- [Implementation Roadmap →](./Case-Studies/02-FinServe-Bank/02-FinServe-Implementation-Roadmap.md)
 
 ### 3. **TradeX Securities** (Advanced)
 **Problem:** Losing market share to Zerodha/Groww (slow platform, 18% churn, 3.8 rating)
